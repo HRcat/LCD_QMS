@@ -1,0 +1,1 @@
+Regsvr32 Flash32_14_0_0_145.ocx
